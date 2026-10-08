@@ -1,0 +1,114 @@
+[
+  {
+    "file": "01_H.stl",
+    "triangles": 27386,
+    "closed": true,
+    "components": 1,
+    "dimensions_mm": [
+      33.614,
+      38.085,
+      5.0
+    ],
+    "curved_top_area_fraction": 0.7915,
+    "flat_back_z_mm": 0,
+    "volume_mm3": 2875.069
+  },
+  {
+    "file": "02_Y.stl",
+    "triangles": 50668,
+    "closed": true,
+    "components": 1,
+    "dimensions_mm": [
+      31.155,
+      38.085,
+      5.0
+    ],
+    "curved_top_area_fraction": 0.8295,
+    "flat_back_z_mm": 0,
+    "volume_mm3": 1658.195
+  },
+  {
+    "file": "03_G.stl",
+    "triangles": 73752,
+    "closed": true,
+    "components": 1,
+    "dimensions_mm": [
+      32.701,
+      39.998,
+      5.0
+    ],
+    "curved_top_area_fraction": 0.8546,
+    "flat_back_z_mm": 0,
+    "volume_mm3": 2018.466
+  },
+  {
+    "file": "04_I.stl",
+    "triangles": 13098,
+    "closed": true,
+    "components": 1,
+    "dimensions_mm": [
+      15.942,
+      38.085,
+      5.0
+    ],
+    "curved_top_area_fraction": 0.7904,
+    "flat_back_z_mm": 0,
+    "volume_mm3": 1382.926
+  },
+  {
+    "file": "05_E.stl",
+    "triangles": 40214,
+    "closed": true,
+    "components": 1,
+    "dimensions_mm": [
+      28.457,
+      38.085,
+      5.0
+    ],
+    "curved_top_area_fraction": 0.8622,
+    "flat_back_z_mm": 0,
+    "volume_mm3": 2001.511
+  },
+  {
+    "file": "06_I.stl",
+    "triangles": 13110,
+    "closed": true,
+    "components": 1,
+    "dimensions_mm": [
+      15.942,
+      38.085,
+      5.0
+    ],
+    "curved_top_area_fraction": 0.7904,
+    "flat_back_z_mm": 0,
+    "volume_mm3": 1382.925
+  },
+  {
+    "file": "07_A.stl",
+    "triangles": 62246,
+    "closed": true,
+    "components": 1,
+    "dimensions_mm": [
+      30.972,
+      38.873,
+      5.0
+    ],
+    "curved_top_area_fraction": 0.8594,
+    "flat_back_z_mm": 0,
+    "volume_mm3": 1561.913
+  },
+  {
+    "file": "HYGIEIA_rounded_no_base_200mm.stl",
+    "triangles": 280474,
+    "closed": true,
+    "components": 7,
+    "dimensions_mm": [
+      200.0,
+      39.998,
+      5.0
+    ],
+    "curved_top_area_fraction": 0.8272,
+    "flat_back_z_mm": 0,
+    "volume_mm3": 12881.003
+  }
+]
